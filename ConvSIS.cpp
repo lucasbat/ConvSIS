@@ -1,7 +1,7 @@
 /*
 
 DATA: 10/08/17
-PROGRAMA: CSN 1.0
+PROGRAMA: ConvSIS
 LINGUAGEM: C++ 
 Lucas Batista
 
